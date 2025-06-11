@@ -57,5 +57,7 @@ This project includes three interactive JavaScript utilities designed for daily 
 - Outputs transaction fee and total amount debited.
 
 
+## 📜 License
 
+Open-source under the MIT License.
 
